@@ -23,7 +23,7 @@ export default function SafeZoneWebsite() {
               Community
             </a>
           </nav>
-          <Button className="bg-blue-600 hover:bg-blue-700">Create a Report</Button>
+          <a href="http://localhost:5173/" className="bg-blue-600 p-2 text-white rounded text-decoration-none hover:bg-blue-700">Create a Report</a>
         </div>
       </header>
 
